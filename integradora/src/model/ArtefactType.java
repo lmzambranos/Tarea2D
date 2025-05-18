@@ -1,0 +1,10 @@
+package model;
+
+public enum ArtefactType {
+    ESPECIFICACION_REQUERIMIENTOS,
+    DIAGRAMA_CLASES,
+    INFOGRAFIA,
+    MODELO_DATOS,
+    PLAN_PRUEBAS,
+    DIAGRAMA_DESPLIEGUE
+}
